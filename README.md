@@ -13,8 +13,8 @@
 
 
 
-本仓库收录了我**浏览器（Browser）**常用的 **用户脚本（UserScript）** 和 **扩展（Expansion）**，包含精选第三方工具与自制。  
-支持 **Tampermonkey / Violentmonkey ** 脚本，以及 Chrome / Edge / Firefox 扩展。
+本仓库收录了我 **浏览器 (Browser)** 常用的 **用户脚本 (UserScript)** 和 **扩展 (Expansion)**，包含精选第三方工具与自制。
+支持 **Tampermonkey / Violentmonkey** 脚本，以及 Chrome / Edge / Firefox 扩展。
 
 ---
 
@@ -100,16 +100,16 @@
 
 ### 七、特定平台个性化工具 (Platform-Specific Tools)
 
-| 名称 | 简介 | 安装链接 |
-|:-----|:-----|:---------|
-| BewlyBewly | 优化bilibili首页，力推（可惜作者好像停止维护了） | [Chrome安装](https://www.crxsoso.com/webstore/detail/bbbiejemhfihiooipfcjmjmbfdmobobp)<br />[firefox安装]( https://addons.mozilla.org/en-US/firefox/addon/bewlybewly/) |
-| BiliPlus - Bilibili 加大杯，细节从大杯做起 | B站界面细节优化工具，自定义b站页面 | [Chrome](https://chromewebstore.google.com/detail/biliplus-bilibili-%E5%8A%A0%E5%A4%A7%E6%9D%AF%EF%BC%8C%E7%BB%86%E8%8A%82%E4%BB%8E/liddcdcjkpeaiblhebgihpmcaknpgbgk) |
-| pakku：哔哩哔哩弹幕过滤器 | 瞬间过滤B站(bilibili.com)的刷屏弹幕，还你清爽的弹幕视频体验。 | [Chrome](https://chromewebstore.google.com/detail/pakku%EF%BC%9A%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%BC%B9%E5%B9%95%E8%BF%87%E6%BB%A4%E5%99%A8/jklfcpboamajpiikgkbjcnnnnooefbhh) |
-| PocketTube | YouTube订阅管理器，分类整理视频 | [Chrome](https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb) |
-| Screenshot YouTube | 一键截取YouTube视频画面 | [Chrome](https://chromewebstore.google.com/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk) |
-| Picture in Picture Player | YouTube画中画模式观看在线视频（网页最小化后仍能使用） | [Chrome](https://chromewebstore.google.com/detail/picture-in-picture-player/hkgfoiooedgoejojocmhlaklaeopbecg) |
-| LinuxDo Scripts | L站增强工具，好用不必多说 | [Github](https://github.com/anghunk/linuxdo-scripts)         |
-| GitHub 增强工具栏 | 在 Github 网站顶部显示 Github.dev 和 DeepWiki 和 ZreadAi 按钮，方便更好地查看代码。 | [greasyfork](https://update.greasyfork.org/scripts/544826/GitHub%20%E5%A2%9E%E5%BC%BA%E5%B7%A5%E5%85%B7%E6%A0%8F.user.js) |
+| 图标 | 名称 | 简介 | 安装链接 |
+|:-----|:-----|:---------|:---------|
+| <img src="https://favicon.im/zh/bilibili.com" height="16" alt="b"> | BewlyBewly | 优化bilibili首页，力推（可惜作者好像停止维护了） | [Chrome安装](https://www.crxsoso.com/webstore/detail/bbbiejemhfihiooipfcjmjmbfdmobobp)<br />[firefox安装]( https://addons.mozilla.org/en-US/firefox/addon/bewlybewly/) |
+| <img src="https://favicon.im/zh/bilibili.com" height="16" alt="b"> | BiliPlus - Bilibili 加大杯，细节从大杯做起 | B站界面细节优化工具，自定义b站页面 | [Chrome](https://chromewebstore.google.com/detail/biliplus-bilibili-%E5%8A%A0%E5%A4%A7%E6%9D%AF%EF%BC%8C%E7%BB%86%E8%8A%82%E4%BB%8E/liddcdcjkpeaiblhebgihpmcaknpgbgk) |
+| <img src="https://favicon.im/zh/bilibili.com"  height="16" alt="b"> | pakku：哔哩哔哩弹幕过滤器 | 瞬间过滤B站(bilibili.com)的刷屏弹幕，还你清爽的弹幕视频体验。 | [Chrome](https://chromewebstore.google.com/detail/pakku%EF%BC%9A%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%BC%B9%E5%B9%95%E8%BF%87%E6%BB%A4%E5%99%A8/jklfcpboamajpiikgkbjcnnnnooefbhh) |
+| ![](https://www.youtube.com/s/desktop/8a664e3f/img/logos/favicon.ico) | PocketTube | YouTube订阅管理器，分类整理视频 | [Chrome](https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb) |
+| ![](assets/favicon.x-icon) | Screenshot YouTube | 一键截取YouTube视频画面 | [Chrome](https://chromewebstore.google.com/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk) |
+| ![](assets/favicon.x-icon) | Picture in Picture Player | YouTube画中画模式观看在线视频（网页最小化后仍能使用） | [Chrome](https://chromewebstore.google.com/detail/picture-in-picture-player/hkgfoiooedgoejojocmhlaklaeopbecg) |
+| ![linux.do (16×16)](https://favicon.im/zh/linux.do) | LinuxDo Scripts | L站增强工具，好用不必多说 | [Github](https://github.com/anghunk/linuxdo-scripts)         |
+| <img src="https://favicon.im/zh/github.com"  height="16" alt="b"> | GitHub 增强工具栏 | 在 Github 网站顶部显示 Github.dev 和 DeepWiki 和 ZreadAi 按钮，方便更好地查看代码。 | [greasyfork](https://update.greasyfork.org/scripts/544826/GitHub%20%E5%A2%9E%E5%BC%BA%E5%B7%A5%E5%85%B7%E6%A0%8F.user.js) |
 
 ### 八、其他实用工具 (Other Utilities)
 
