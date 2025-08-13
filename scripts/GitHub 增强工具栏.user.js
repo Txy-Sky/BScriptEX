@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         GitHub 增强工具栏
+// @namespace    https://github.com/txy-sky
 // @icon         https://github.com/favicons/favicon.svg
 // @version      1.5.0
 // @description  在 Github 网站顶部显示 Github.dev 和 DeepWiki 和 ZreadAi 按钮，方便更好地查看代码。当按钮过多时自动切换为图标模式。
@@ -7,6 +8,7 @@
 // @match        https://github.com/*
 // @run-at       document-end
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {
