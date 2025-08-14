@@ -74,6 +74,7 @@
 |:-----|:-----|:---------|
 | 沉浸式翻译 | 网页**翻译**插件，支持PDF翻译 | [Chrome](https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) |
 | 大学搜题酱插件 | 大学生作业题目搜索工具 | [Chrome](https://chromewebstore.google.com/detail/大学搜题酱插件/egfkhocobmgeafdbjbphhfdfbmlobgdc) |
+| OCS 网课助手 | 大学生刷网课必备神器 | [greasyfork]([OCS 网课助手](https://greasyfork.org/zh-CN/scripts/457151-ocs-网课助手)) |
 
 ### 四、下载与文件管理 (Download & File Management)
 
@@ -108,8 +109,9 @@
 | <img src="https://favicon.im/zh/youtube.com"  height="16" alt="y"> | PocketTube | YouTube订阅管理器，分类整理视频 | [Chrome](https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb) |
 | <img src="https://favicon.im/zh/youtube.com"  height="16" alt="y"> | Screenshot YouTube | 一键截取YouTube视频画面 | [Chrome](https://chromewebstore.google.com/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk) |
 | <img src="https://favicon.im/zh/youtube.com"  height="16" alt="y"> | Picture in Picture Player | YouTube画中画模式观看在线视频（网页最小化后仍能使用） | [Chrome](https://chromewebstore.google.com/detail/picture-in-picture-player/hkgfoiooedgoejojocmhlaklaeopbecg) |
+| <img src="assets/bilibili.x-icon"  height="16" alt="b"><img src="assets/youtube.x-icon"  height="16" alt="y"> | B2Y | 自动将Bilibili的弹幕同步显示在YouTube视频上 | [Chrome](https://chromewebstore.google.com/detail/b2y-youtube-%E5%90%8C%E6%AD%A5%E6%98%BE%E7%A4%BA-bilibili/dmkbhbnbpfijhgpnfahfioedledohfja) |
 | <img src="https://favicon.im/zh/linux.do"  height="16" alt="l"> | LinuxDo Scripts | L站增强工具，好用不必多说 | [Github](https://github.com/anghunk/linuxdo-scripts)         |
-| <img src="https://favicon.im/zh/github.com"  height="16" alt="g"> | GitHub 增强工具栏 | 在 Github 网站顶部显示 Github.dev 和 DeepWiki 和 ZreadAi 按钮，方便更好地查看代码。 | [greasyfork](https://update.greasyfork.org/scripts/544826/GitHub%20%E5%A2%9E%E5%BC%BA%E5%B7%A5%E5%85%B7%E6%A0%8F.user.js) |
+| <img src="https://favicon.im/zh/github.com"  height="16" alt="g"> | GitHub 增强工具栏 | **自制** 在 Github 网站顶部显示 Github.dev 和 DeepWiki 和 ZreadAi 按钮，方便更好地查看代码。 | [greasyfork](https://update.greasyfork.org/scripts/544826/GitHub%20%E5%A2%9E%E5%BC%BA%E5%B7%A5%E5%85%B7%E6%A0%8F.user.js) |
 
 ### 八、其他实用工具 (Other Utilities)
 
