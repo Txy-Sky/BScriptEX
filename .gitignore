@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# But keep these directories and files
+!extensions/
+!extensions/**
+!scripts/
+!scripts/**
+!README.md
+!LICENSE
+!.gitignore
